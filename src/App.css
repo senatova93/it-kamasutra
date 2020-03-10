@@ -1,4 +1,4 @@
-.App {
+.App { padding: 200px;
 
 }
 
@@ -7,10 +7,13 @@
   margin: 0 auto;
 }
 
-.todoList > div {
+.todoList  {
   padding: 10px;
 }
 
 .todoList-task {
 
+}
+.filter-active {
+  background-color: #93a2ff;
 }
